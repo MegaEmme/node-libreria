@@ -1,0 +1,16 @@
+{
+  "name": "libreria",
+  "version": "1.0.0",
+  "description": "node-libreria",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "Michelangelo Musco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
